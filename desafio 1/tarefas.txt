@@ -1,0 +1,7 @@
+Controle de estoque
+
+- Criar a estrutura de arquivos
+- Criar o formulário
+- Guardar os dados
+- Listar dados na tela
+- Estilizar

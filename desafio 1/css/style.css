@@ -1,0 +1,44 @@
+body {
+  background-color: #333;
+}
+
+.formulario {
+  width: 322px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+form h1 {
+  color: #fff;
+}
+
+input {
+  width: 300px !important;
+  background-color: #fff;
+  color: #333;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+#cadastrar {
+  width: 322px !important;
+  cursor: pointer;
+}
+
+li {
+  color: #fff;
+}
+
+#listaDeProdutos {
+  text-align: left;
+}
+
+table {
+  width: 100%;
+}
+
+table tr {
+  border: 1px solid rgb(255, 255, 255);
+  background-color: #fff;
+  padding: 5px;
+}
